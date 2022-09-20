@@ -1,0 +1,35 @@
+
+
+1. Gao Z, Zhang H, Liu AA et al (2016) Human action recognition on depth dataset. Neural
+Comput Appl 27:2047–2054. https://doi.org/10.1007/s00521-015-2002-0
+2. Poppe R (2010) A survey on vision-based human action recognition. Image Vis Comput
+28:976–990. https://doi.org/10.1016/j.imavis.2009.11.014
+2 3. Weinland D, Ronfard R, Boyer E (2011) A survey of vision based methods for
+action representation, segmentation and recognition. Comput Vis Image Underst
+115:224–241. https://doi.org/10.1016/j.cviu.2010.10.002
+4. Ladjailia A, Bouchrika I, Merouani HF et al (2019) Human activity recognition via
+optical flflow: decomposing activities into basic actions. Neural Comput Appl. https://doi.org/10.1007/s00521-018-3951-x
+5. Suto J (2018) Comparison of offlfline and real-time human activity recognition results
+using machine learning techniques. Neural Comput Appl. https://doi.org/10.1007/s00521- 018-3437-x
+6. Guddeti RR, Dang G, Williams MA, Alla VM (2018) Role of Yoga in cardiac disease
+and rehabilitation. J Cardiopulm Rehabil Prev. https://doi.org/10.1097/hcr.0000000000000372
+7. Neumark-Sztainer D, Watts AW, Rydell S (2018) Yoga and body image: how do young
+adults practicing yoga describe its impact on their body image? Body Image 27:156–168. https://doi.org/10.1016/j.bodyim.2018.09.001
+8. Halliwell E, Dawson K, Burkey S (2019) A randomized experi mental evaluation of a
+yoga-based body image intervention. Body Image 28:119–127. https://doi.org/10.1016/j.bodyim.2018.12.005
+9. Sathyanarayanan G, Vengadavaradan A, Bharadwaj B (2019) Role of yoga and
+mindfulness in severe mental illnesses: a narrative review. Int J Yoga 12:3–28. https://doi.org/10.4103/ijoy. IJOY_65_1
+10. Patil S, Pawar A, Peshave A et al (2011) Yoga tutor: visualization and analysis using
+SURF algorithm. In: Proceedings of 2011 IEEE control system graduate research
+colloquium, ICSGRC 2011, pp 43–46
+11. Chen HT, He YZ, Hsu CC et al (2014) Yoga posture recognition for self-training. In:
+Lecture notes in computer science (including subseries lecture notes in artifificial
+intelligence and lecture notes in bioinformatics), pp 496–505
+12. Chen HT, He YZ, Chou CL et al (2013) Computer-assisted self training system for
+sports exercise using kinects. In: Electronic proceedings of 2013 IEEE international conference multimedia and expo work ICMEW 2013 3–6. https://doi.org/10.1109/icmew.2013.6618307
+13. Schure MB, Christopher J, Christopher S (2008) Mind–body medicine and the art of
+self-care: teaching mindfulness to coun seling students through yoga, meditation, and
+qigong. J CounsDev. https://doi.org/10.1002/j.1556-6678.2008.tb00625.x
+14. Lim S-A, Cheong K-J (2015) Regular Yoga practice improves antioxidant status, immune function, and stress hormone releases in young healthy people: a randomized, double-blind, controlled pilot study. J Altern Complement Med 1:1. https://doi.org/10.1089/acm.2014.0044
+15. Chen HT, He YZ, Hsu CC (2018) Computer-assisted yoga training system. Multimed
+Tools Appl 77:23969–23991. https://doi.org/10.1007/s11042-018-5721-2

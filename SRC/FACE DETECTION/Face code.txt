@@ -1,0 +1,137 @@
+#include <opencv2/opencv.hpp>
+2
+ 
+3
+using namespace std;
+4
+using namespace cv;
+5
+ 
+6
+int main(int argc, char **argv)
+7
+{
+8
+ 
+9
+    // Read input image
+10
+    cv::Mat im = cv::imread("headPose.jpg");
+11
+ 
+12
+    // 2D image points. If you change the image, you need to change vector
+13
+    std::vector<cv::Point2d> image_points;
+14
+    image_points.push_back( cv::Point2d(359, 391) );    // Nose tip
+15
+    image_points.push_back( cv::Point2d(399, 561) );    // Chin
+16
+    image_points.push_back( cv::Point2d(337, 297) );     // Left eye left corner
+17
+    image_points.push_back( cv::Point2d(513, 301) );    // Right eye right corner
+18
+    image_points.push_back( cv::Point2d(345, 465) );    // Left Mouth corner
+19
+    image_points.push_back( cv::Point2d(453, 469) );    // Right mouth corner
+20
+ 
+21
+    // 3D model points.
+22
+    std::vector<cv::Point3d> model_points;
+23
+    model_points.push_back(cv::Point3d(0.0f, 0.0f, 0.0f));               // Nose tip
+24
+    model_points.push_back(cv::Point3d(0.0f, -330.0f, -65.0f));          // Chin
+25
+    model_points.push_back(cv::Point3d(-225.0f, 170.0f, -135.0f));       // Left eye left corner
+26
+    model_points.push_back(cv::Point3d(225.0f, 170.0f, -135.0f));        // Right eye right corner
+27
+    model_points.push_back(cv::Point3d(-150.0f, -150.0f, -125.0f));      // Left Mouth corner
+28
+    model_points.push_back(cv::Point3d(150.0f, -150.0f, -125.0f));       // Right mouth corner
+29
+ 
+30
+    // Camera internals
+31
+    double focal_length = im.cols; // Approximate focal length.
+32
+    Point2d center = cv::Point2d(im.cols/2,im.rows/2);
+33
+    cv::Mat camera_matrix = (cv::Mat_<double>(3,3) << focal_length, 0, center.x, 0 , focal_length, center.y, 0, 0, 1);
+34
+    cv::Mat dist_coeffs = cv::Mat::zeros(4,1,cv::DataType<double>::type); // Assuming no lens distortion
+35
+ 
+36
+    cout << "Camera Matrix " << endl << camera_matrix << endl ;
+37
+    // Output rotation and translation
+38
+    cv::Mat rotation_vector; // Rotation in axis-angle form
+39
+    cv::Mat translation_vector;
+40
+ 
+41
+    // Solve for pose
+42
+    cv::solvePnP(model_points, image_points, camera_matrix, dist_coeffs, rotation_vector, translation_vector);
+43
+ 
+44
+    // Project a 3D point (0, 0, 1000.0) onto the image plane.
+45
+    // We use this to draw a line sticking out of the nose
+46
+ 
+47
+    vector<Point3d> nose_end_point3D;
+48
+    vector<Point2d> nose_end_point2D;
+49
+    nose_end_point3D.push_back(Point3d(0,0,1000.0));
+50
+ 
+51
+    projectPoints(nose_end_point3D, rotation_vector, translation_vector, camera_matrix, dist_coeffs, nose_end_point2D);
+52
+ 
+53
+    for(int i=0; i < image_points.size(); i++)
+54
+    {
+55
+        circle(im, image_points[i], 3, Scalar(0,0,255), -1);
+56
+    }
+57
+ 
+58
+    cv::line(im,image_points[0], nose_end_point2D[0], cv::Scalar(255,0,0), 2);
+59
+ 
+60
+    cout << "Rotation Vector " << endl << rotation_vector << endl;
+61
+    cout << "Translation Vector" << endl << translation_vector << endl;
+62
+ 
+63
+    cout <<  nose_end_point2D << endl;
+64
+ 
+65
+    // Display image.
+66
+    cv::imshow("Output", im);
+67
+    cv::waitKey(0);
+68
+ 
+69
+}

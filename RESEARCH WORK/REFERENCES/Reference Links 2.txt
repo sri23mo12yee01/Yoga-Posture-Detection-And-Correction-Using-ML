@@ -1,0 +1,152 @@
+Gao Z, Zhang H, Liu AA et al (2016) Human action recognition
+on depth dataset. Neural Comput Appl 27:2047–2054. https://doi.
+org/10.1007/s00521-015-2002-0
+2. Poppe R (2010) A survey on vision-based human action recog-
+nition. Image Vis Comput 28:976–990. https://doi.org/10.1016/j.
+imavis.2009.11.014
+3. Weinland D, Ronfard R, Boyer E (2011) A survey of vision-
+based methods for action representation, segmentation and
+recognition. Comput Vis Image Underst 115:224–241. https://doi.
+org/10.1016/j.cviu.2010.10.002
+4. Ladjailia A, Bouchrika I, Merouani HF et al (2019) Human
+activity recognition via optical flow: decomposing activities into
+basic actions. Neural Comput Appl. https://doi.org/10.1007/
+s00521-018-3951-x
+5. Suto J (2018) Comparison of offline and real-time human activity
+recognition results using machine learning techniques. Neural
+Comput Appl. https://doi.org/10.1007/s00521-018-3437-x
+6. Guddeti RR, Dang G, Williams MA, Alla VM (2018) Role of
+Yoga in cardiac disease and rehabilitation. J Cardiopulm Rehabil
+Prev. https://doi.org/10.1097/hcr.0000000000000372
+7. Neumark-Sztainer D, Watts AW, Rydell S (2018) Yoga and body
+image: how do young adults practicing yoga describe its impact
+on their body image? Body Image 27:156–168. https://doi.org/10.
+1016/j.bodyim.2018.09.001
+8. Halliwell E, Dawson K, Burkey S (2019) A randomized experi-
+mental evaluation of a yoga-based body image intervention. Body
+Image 28:119–127. https://doi.org/10.1016/j.bodyim.2018.12.
+005
+9. Sathyanarayanan G, Vengadavaradan A, Bharadwaj B (2019)
+Role of yoga and mindfulness in severe mental illnesses: a nar-
+rative review. Int J Yoga 12:3–28. https://doi.org/10.4103/ijoy.
+IJOY_65_1
+10. Patil S, Pawar A, Peshave A et al (2011) Yoga tutor: visualization
+and analysis using SURF algorithm. In: Proceedings of 2011
+IEEE control system graduate research colloquium, ICSGRC
+2011, pp 43–46
+11. Chen HT, He YZ, Hsu CC et al (2014) Yoga posture recognition
+for self-training. In: Lecture notes in computer science (including
+subseries lecture notes in artificial intelligence and lecture notes
+in bioinformatics), pp 496–505
+12. Chen HT, He YZ, Chou CL et al (2013) Computer-assisted self-
+training system for sports exercise using kinects. In: Electronic
+proceedings of 2013 IEEE international conference multimedia
+and expo work ICMEW 2013 3–6. https://doi.org/10.1109/
+icmew.2013.6618307
+13. Schure MB, Christopher J, Christopher S (2008) Mind–body
+medicine and the art of self-care: teaching mindfulness to coun-
+seling students through yoga, meditation, and qigong. J Couns
+Dev. https://doi.org/10.1002/j.1556-6678.2008.tb00625.x
+14.Lim S-A, Cheong K-J (2015) Regular Yoga practice improves
+antioxidant status, immune function, and stress hormone releases
+in young healthy people: a randomized, double-blind, controlled
+pilot study. J Altern Complement Med 1:1. https://doi.org/10.
+1089/acm.2014.0044
+15. Chen HT, He YZ, Hsu CC (2018) Computer-assisted yoga
+training system. Multimed Tools Appl 77:23969–23991. https://
+doi.org/10.1007/s11042-018-5721-2
+16. Maanijou R, Mirroshandel SA (2019) Introducing an expert
+system for prediction of soccer player ranking using ensemble
+learning. Neural Comput Appl. https://doi.org/10.1007/s00521-
+019-04036-9
+17. Nordsborg NB, Espinosa HG, Thiel DV (2014) Estimating energy
+expenditure during front crawl swimming using accelerometers.
+Procedia Eng 72:132–137. https://doi.org/10.1016/j.proeng.2014.
+06.024
+18. Connaghan D, Kelly P, O’Connor NE et al (2011) Multi-sensor
+classification of tennis strokes. Proc IEEE Sens. https://doi.org/
+10.1109/icsens.2011.6127084
+19. Shan CZ, Su E, Ming L (2015) Investigation of upper limb
+movement during badminton smash. In: 2015 10th Asian Control
+conference, pp 1–6. https://doi.org/10.1109/ascc.2015.7244605
+20. Waldron M, Twist C, Highton J et al (2011) Movement and
+physiological match demands of elite rugby league using
+portable global positioning systems. J Sports Sci 29:1223–1230.
+https://doi.org/10.1080/02640414.2011.587445
+21. Pai PF, ChangLiao LH, Lin KP (2017) Analyzing basketball
+games by a support vector machines with decision tree model.
+Neural Comput Appl 28:4159–4167. https://doi.org/10.1007/
+s00521-016-2321-9
+22. Bai L, Efstratiou C, Ang CS (2016) WeSport: utilising wrist-band
+sensing to detect player activities in basketball games. In: 2016
+IEEE international conference on pervasive computing and
+communication workshops, PerCom workshops 2016. IEEE,
+pp 1–6
+23. Yahya U, Arosha Senanayake SMN, Naim AG (2018) A data-
+base-driven neural computing framework for classification of
+vertical jump patterns of healthy female netballers using 3D
+kinematics—EMG features. Neural Comput Appl. https://doi.org/
+10.1007/s00521-018-3653-4
+24. Przednowek K, Wiktorowicz K, Krzeszowski T, Iskra J (2018) A
+web-oriented expert system for planning hurdles race training
+programmes. Neural Comput Appl 1:1–17. https://doi.org/10.
+1007/s00521-018-3559-1
+25. Luo Z, Yang W, Ding ZQ et al (2011) ‘‘Left arm up!’’ interactive
+Yoga training in virtual environment. In: 2011 IEEE virtual real
+conference, pp 261–262. https://doi.org/10.1109/vr.2011.
+5759498
+26. Wu W, Yin W, Guo F (2010) Learning and self-instruction expert
+system for Yoga. In: Proceedings of 2010 2nd International Work
+Intelligent System Application: ISA, pp 2–5. https://doi.org/10.
+1109/iwisa.2010.5473592
+27. Trejo EW, Yuan P (2018) Recognition of Yoga poses through an
+interactive system with kinect device. In: 2018 2nd international
+conference robotics and automation science: ICRAS, pp 12–17.
+https://doi.org/10.1109/icras.2018.8443267
+28. Mohanty A, Ahmed A, Goswami T et al (2017) Robust pose
+recognition using deep learning. In: Raman B, Kumar S, Roy PP,
+Sen D (eds) Advances in intelligent systems and computing.
+Springer, Singapore, pp 93–105. https://doi.org/10.1007/978-981-
+10-2107-7_9
+29. Toshev A, Szegedy C (2013) DeepPose: human pose estimation
+via deep neural networks. https://doi.org/10.1109/cvpr.2014.214
+30. Cao Z, Simon T, Wei SE, Sheikh Y (2017) Realtime multi-person
+2D pose estimation using part affinity fields. In: Proceedings of
+30th IEEE conference computer vision and pattern recognition,
+CVPR 2017, 2017 January, pp 1302–1310. https://doi.org/10.
+1109/cvpr.2017.143
+31. Qiao S, Wang Y, Li J (2017) Real time human gesture grading
+based on OpenPose. International Congress Image Signal Process
+32. Luo G, Sun G, Wang K et al (2016) A novel left ventricular
+volumes prediction method based on deep learning network in
+cardiac MRI, pp 1604–1610. https://doi.org/10.22489/cinc.2016.
+028-224
+33. Kiros R, Zhu Y, Salakhutdinov R et al (2015) Skip-thought
+vectors, pp 1–11. https://doi.org/10.1017/cbo9781107415324.004
+34. Li J, Luong M-T, Jurafsky D (2015) A hierarchical neural
+autoencoder for paragraphs and documents. https://doi.org/10.
+3115/v1/p15-1107
+35. Grushin A, Monner DD, Reggia JA, Mishra A (2013) Robust
+human action recognition via long short-term memory. In:
+International joint conference on neural networks (IJCNN),
+pp 1–8
+36. Wang J, Yu L-C, Lai KR, Zhang X (2016) Dimensional senti-
+ment analysis using a regional CNN-LSTM model, pp 225–230.
+https://doi.org/10.18653/v1/p16-2037
+37. Zhou C, Sun C, Liu Z, Lau FCM (2015) A C-LSTM neural
+network for text classification. https://doi.org/10.1212/01.wnl.
+0000296829.66406.14
+38. Oh SL, Ng EYK, Tan RS, Acharya UR (2018) Automated
+diagnosis of arrhythmia using combination of CNN and LSTM
+techniques with variable length heart beats. Comput Biol Med
+102:278–287. https://doi.org/10.1016/j.compbiomed.2018.06.002
+39. Xu Z, Li S, Deng W (2016) Learning temporal features using
+LSTM-CNN architecture for face anti-spoofing. In: Proceedings
+of 3rd IAPR Asian conference pattern recognition, ACPR 2015,
+pp 141–145
+40. Wang X, Gao L, Song J, Shen H (2017) Beyond frame-level
+CNN: saliency-Aware 3-D CNN with LSTM for video action
+recognition. IEEE Signal Process Lett 24:510–514. https://doi.
+org/10.1109/LSP.2016.2611485
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
